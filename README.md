@@ -27,8 +27,8 @@ El proyecto The Rayo McQueen Food's consiste en una página web de un negocio de
 
 ## Tecnologias🖥️
 
-- **HTML** 🐍: Utilizada para la parte interna de la página.
-- **CSS** 🐍: Encargada de todo el diseño de la página.
+- **HTML** : Utilizada para la parte interna de la página.
+- **CSS** : Encargada de todo el diseño de la página.
 
 
 ## Instrucciones📐
